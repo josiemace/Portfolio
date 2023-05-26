@@ -16,15 +16,21 @@ A CSV can then be pulled from the robot detailing each alert that has occured ov
 etc....
 
 I was assigned 3 tasks given this information, leading to three independent project designs & implementations:
+
   1). Monthly Reports
+  
       - Consolidating & manipulating the given data each month as a method of progress monitoring and control.
       This included determining average response times and splitting the alerts by the period of time in which
       it took to respond to it (i.e., within 5 minutes, within 10 minutes, etc.). 
+      
   2). Employee Reports
+  
       - This project centered around retrieving repsonse data from each individual employee to evaluate 
       performance. It required both aggregating all individual data, as well as cross refrencing other
       data sets containing information about the hours each individual was activley working.
+      
   3). Alert Density Report
+  
       - In order to maximize company cost-benefits for each client, robots and officers needed to be deployed 
       during the hours where the most activity was seen. As such, I was asked to create a way of quanitifying 
       alert data/history by hour leading to the alert density report.
