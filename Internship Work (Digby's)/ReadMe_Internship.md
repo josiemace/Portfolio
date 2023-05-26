@@ -17,7 +17,7 @@ etc....
 
 I was assigned 3 tasks given this information, leading to three independent project designs & implementations:
 
-  1). [Monthly Reports] (Monthly_Reports.ipynb)
+  1). [Monthly Reports](Monthly_Reports.ipynb)
   
       Consolidating & manipulating the given data each month as a method of progress monitoring and control.
       This included determining average response times and splitting the alerts by the period of time in which
