@@ -6,3 +6,4 @@ The links below contain examples on some of these programs I developed in my exp
 
 [Internship Work](https://github.com/josiemace/Portfolio/blob/4aec62859cd716a56cdead7e0b93f601043f502d/Internship%20Work%20(Digby's)/ReadMe_Internship.md)
 
+[IBM Telescope Work] 
